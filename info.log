@@ -1,0 +1,23 @@
+[INFO] 2021-11-25 12:54:37,360 - Successfully connected to MySQL Server
+[INFO] 2021-11-25 13:00:19,673 - Successfully connected to MySQL Server
+[INFO] 2021-11-25 13:03:08,074 - Successfully connected to MySQL Server
+[INFO] 2021-11-25 13:07:08,011 - Successfully connected to MySQL Server
+[INFO] 2021-11-25 13:14:08,749 - Successfully connected to MySQL Server
+[INFO] 2021-11-25 13:18:18,486 - Successfully connected to MySQL Server
+[INFO] 2021-11-25 13:26:42,289 - Successfully connected to MySQL Server
+[INFO] 2021-11-25 13:30:34,203 - Successfully connected to MySQL Server
+[ERROR] 2021-11-25 13:30:34,204 - Invalid. An error message: load_third_party() missing 1 required positional argument: 'connection'
+[ERROR] 2021-11-25 13:30:34,206 - Error while connecting to database for job tracker: 1146 (42S02): Table 'ticketsales.ticketsale' doesn't exist
+[INFO] 2021-11-25 13:34:24,947 - Successfully connected to MySQL Server
+[ERROR] 2021-11-25 13:34:24,948 - Error while connecting to database for job tracker: [Errno 2] No such file or directory: ''
+[ERROR] 2021-11-25 13:34:24,950 - Error while connecting to database for job tracker: 1146 (42S02): Table 'ticketsales.ticketsale' doesn't exist
+[INFO] 2021-11-25 13:35:58,024 - Successfully connected to MySQL Server
+[ERROR] 2021-11-25 13:35:58,025 - Error while connecting to database for job tracker: [Errno 2] No such file or directory: ''
+[INFO] 2021-11-25 13:35:58,026 - Successfully implement "the most popular tickets" query
+[INFO] 2021-11-25 13:43:16,394 - Successfully connected to MySQL Server
+[ERROR] 2021-11-25 13:43:16,395 - Invalid. An error message: load_third_party() missing 1 required positional argument: 'file_path_csv'
+[INFO] 2021-11-25 13:43:16,396 - Successfully implement "the most popular tickets" query. But no updated output
+[INFO] 2021-11-25 13:43:16,396 - Successfully implement "the most popular tickets" query
+[INFO] 2021-11-25 13:45:32,893 - Successfully connected to MySQL Server
+[INFO] 2021-11-25 13:45:32,907 - Successfully insert data to ticketsale table
+[INFO] 2021-11-25 13:45:32,908 - Successfully implement "the most popular tickets" query

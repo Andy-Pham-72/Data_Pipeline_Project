@@ -1,0 +1,6 @@
+[ERROR] 2021-11-25 13:30:34,204 - Invalid. An error message: load_third_party() missing 1 required positional argument: 'connection'
+[ERROR] 2021-11-25 13:30:34,206 - Error while connecting to database for job tracker: 1146 (42S02): Table 'ticketsales.ticketsale' doesn't exist
+[ERROR] 2021-11-25 13:34:24,948 - Error while connecting to database for job tracker: [Errno 2] No such file or directory: ''
+[ERROR] 2021-11-25 13:34:24,950 - Error while connecting to database for job tracker: 1146 (42S02): Table 'ticketsales.ticketsale' doesn't exist
+[ERROR] 2021-11-25 13:35:58,025 - Error while connecting to database for job tracker: [Errno 2] No such file or directory: ''
+[ERROR] 2021-11-25 13:43:16,395 - Invalid. An error message: load_third_party() missing 1 required positional argument: 'file_path_csv'
