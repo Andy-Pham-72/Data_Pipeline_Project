@@ -7,7 +7,7 @@ import logging
 from logging.handlers import RotatingFileHandler
 
 def setup_logger():
-    """function to create log"""
+    """function creates log files"""
     MAX_BYTES = 10000000 # Maximum size for a log file
 
     # The name should be unique, so you can get in in other places
@@ -47,6 +47,7 @@ config = json.load(f)
 file_path_csv= input("Type your csv file directory:")
 
 def get_db_connection():
+    """ function connects to MySQL server"""
     global connection
     connection = None
     try:
@@ -102,6 +103,7 @@ def load_third_party(connection, file_path_csv):
     return 
 
 def query_popular_tickets(connection):
+    """function runs the popular ticket query"""
     
     sql_statement = 'SELECT event_name \
                     FROM ticketsales.ticketsale \
