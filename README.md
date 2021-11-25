@@ -7,11 +7,11 @@
 - pandas
 - mysql.connector
 
-Step 1: Set up MySQL table from [MySQL table setup folder]()
+Step 1: Set up MySQL table from [MySQL table setup folder](https://github.com/Andy-Pham-72/Data_Pipeline_Project/tree/master/MySQL%20table%20setup)
 
 Step 2: Run ticket_sale_data_pipeline.py
-- Input the config directory from [config folder]()
-- Input the SQL script directory from [data folder]()
+- Input the config directory from [config folder](https://github.com/Andy-Pham-72/Data_Pipeline_Project/tree/master/config)
+- Input the SQL script directory from [data folder](https://github.com/Andy-Pham-72/Data_Pipeline_Project/tree/master/data)
 
 **Output Example**
 
