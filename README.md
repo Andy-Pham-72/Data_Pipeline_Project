@@ -15,7 +15,7 @@ Step 2: Run ticket_sale_data_pipeline.py
 
 **Output Example**
 
-![Screen Shot 2021-11-25 at 7 18 21 PM](https://user-images.githubusercontent.com/70767722/143509758-9606fbe5-74a2-4a30-9bd2-dbf17522e444.png)
+![Screen Shot 2021-11-25 at 7 19 55 PM](https://user-images.githubusercontent.com/70767722/143509837-a72ea551-0cd3-4369-803a-6284f9154efa.png)
 
 ## Log file output
 
